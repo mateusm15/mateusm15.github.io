@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+hr{
+    background-color: black;
+}
+h1, h4, button, .image, .container{
+    text-align: center;
+}
+h1{
+    color: white;
+}
+h4{
+    color: white;
+}
+.biograph{
+    margin: 1em;
+    color: white;
+    text-align: justify;
+}
+.cordefundo1{
+    background-color: orange;
+}
+.cordefundo2{
+    background-color: blue;
+}
